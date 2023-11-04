@@ -30,3 +30,8 @@ e.g.) python3 fixmatch.py --dataset opportunity --window 1088 --overlap 1024 --l
 
 3. Results are saved in ./metadata as in .npy format.
  
+ 
+ 
+ 
+ 
+ 
