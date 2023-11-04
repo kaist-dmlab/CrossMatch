@@ -29,3 +29,4 @@ e.g.) python3 crossmatch.py --dataset HAPT --window 1280 --overlap 1024 --lambda
 e.g.) python3 fixmatch.py --dataset opportunity --window 1088 --overlap 1024 --lambda 1 --mul_label_per_class 10.0 --pltest 0 --gpu 2 --seed 1 
 
 3. Results are saved in ./metadata as in .npy format.
+ 
